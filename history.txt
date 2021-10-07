@@ -1,5 +1,5 @@
 history
 
-New file of practice
+New file of practice. Ahora lo modifiqué. 
 
 Este es mi primer archivo programando con git
