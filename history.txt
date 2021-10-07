@@ -1,0 +1,5 @@
+history
+
+New file of practice
+
+Este es mi primer archivo programando con git
