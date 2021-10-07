@@ -3,3 +3,6 @@ history
 New file of practice. Ahora lo modifiqué. 
 
 Este es mi primer archivo programando con git
+
+Agregué otra línea para probar que si funciona. 
+Será que funciona?
